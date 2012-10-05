@@ -1,0 +1,29 @@
+<img src="grandecarte.png" width="2168" height="1386" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:pablo -->
+<area shape="circle" coords="96,624,47" alt="dwarf" href="dwarf.html" />
+<area shape="circle" coords="308,421,60" alt="mur" href="mur.html" />
+<area shape="circle" coords="255,820,61" alt="kobolds" href="kobolds.html" />
+<area shape="circle" coords="469,589,46" alt="Amulette" href="amulette.html" />
+<area shape="circle" coords="686,461,61" alt="Dragon" href="dragon.html" />
+<area shape="circle" coords="683,816,72" alt="Tours" href="tours.html" />
+<area shape="circle" coords="1057,420,50" alt="Marais" href="marais.html" />
+<area shape="circle" coords="1067,621,58" alt="Foret.html" href="foret.html" />
+<area shape="circle" coords="1054,909,56" alt="Tunnel" href="tunnel.html" />
+<area shape="poly" coords="1181,959,1301,859,1438,843,1513,908,1478,948,1411,914,1301,949,1200,1021,1180,963,1182,963" alt="Passage Tunnel" href="passage_tunnel.html" />
+<area shape="poly" coords="1236,681,1225,627,1350,554,1451,562,1566,651,1526,691,1414,627,1355,628,1236,687" alt="Passage forêt" href="passage_foret.html" />
+<area shape="poly" coords="1199,506,1147,452,1263,370,1371,335,1447,391,1525,472,1462,511,1362,452,1273,460,1202,508" alt="Passage marais" href="passage_marais.html" />
+<area shape="circle" coords="1696,642,94" alt="Hydre" href="hydre.html" />
+<area shape="circle" coords="1938,631,113" alt="Final" href="final.html" />
+<area shape="circle" coords="2095,670,31" alt="retrospective" href="retrospective.html" />
+<area shape="circle" coords="1116,1179,65" alt="Devin" href="devin.html" />
+<area shape="circle" coords="675,226,64" alt="Oracle" href="oracle.html" />
+<area shape="circle" coords="846,1151,95" alt="Oubli" href="oubli.html" />
+<area shape="circle" coords="1057,181,67" alt="Potions" href="potions.html" />
+<area shape="circle" coords="444,1055,84" alt="Allumettes" href="allumettes.html" />
+</map>
