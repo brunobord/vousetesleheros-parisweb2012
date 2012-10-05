@@ -16,6 +16,31 @@ intro: |
 
     ----
 
+    ## Auberge du nain saoûl
+    
+    Dot Voting 
+    
+    Si le groupe échoue, nous faisons un dot voting. 
+    Tous les participants écrivent 2 raisons valables de passer à l'agile sur une fiche. 
+    Puis on parcours toutes les fiches rapidement : lecture de l'intitulé. Si l'intitulé est abscon, on demande à la personne l'ayant écrit d'en expliquer très rapidement (une phrase) le contenu. On demande enfin à tous les participants de placer 4 points sur les fiches. La fiche ayant le maximum de points sera discutée (5/10mn), avec le retour des maîtres du jeu.  <br/>L'épreuve est réussie si les maîtres du jeu jugent la fiche sélectionnée intéressante.
+    
+    ## Le mur des espoirs
+    
+    Estimation : le planning silencieux<br/>
+    On découpe en deux groupes les aventuriers<br/>
+    On délivre à chaque groupe une copie (chaque story découpée) d'un "backlog" à estimer : 
+        <ul>
+            <li>Lire 10 pages concernant les derniers sortilèges à la mode dans Magie Plus</li>
+            <li>Lire 5 pages de recherches techniques sur la pierre de philosophale dans la revue du "clerc érudit"</li>
+            <li>Ecrire un ouvrage sur la vente par correspondance (télékinésie) de 10 pages</li>
+            <li>Recruter, interviewer, valider un nouveau membre pour la guilde des commerçants</li>
+            <li>Préparer un conte de 60mn pour le suzerain du château voisin</li>
+            <li>Nettoyer finement vos 4 épées, elles doivent briller</li>
+            <li>Traduire 76 pages d'elfe en orc concernant la reproduction chez les Kobolds</li>
+            <li>Lire 150 pages de "régles de savoir vivre en noblesse"</li> 
+        </ul>
+    Chacun des groupes à 5mn pour positionner les user stories sur un mur (patafix). Sachant que la plus facile à réaliser doit être à gauche, la plus dure à droite. L'espace devant représenter l'écart dans la difficulté. Deux stories jugées identique seront au même niveau (l'une sur l'autre). Attention l'atelier doit être réalisé dans le silence le plus complet. Les stories peuvent bouger jusqu'à la dernière seconde. <br/>L'épreuve est réussie si les deux estimations se ressemblent assez.    
+
     ## Atelier de l'amulette de la mémoire
 
     Annoncer que vous démarrer avec un petit atelier (pour que les aventuriers ne se focalisent pas trop... gnark gnark). Tracez manuellement "à la va vite" les deux traits, l'un clairement plus long que l'autre. Demandez aux aventuriers de dire si 1) le trait A est le plus long, 2) le trait B est le plus long 3) les deux traits sont de même longueur (vous pouvez utiliser les ballons de couleurs), donnez 10s.
@@ -27,7 +52,15 @@ intro: |
     Vous pouvez dès lors leur dire qu'ils ont utilisés leur "mémoire du muscle", et donc que même l'évidence, par habitude, ils l'a contestent...
 
     Cette idée m'a été présentée par Claude E. Il se reconnaitra.
+    <br/>L'épreuve est réussie si les aventuriers ne font pas trop appel à leur mémoire du muscle.
 
+    ## Le devin 
 
+    L'un des maîtres du jeu se présente comme le devin (ou l'oracle de Delphi). Son art, la divination, d'ailleurs il a déjà la réponse à la question que les aventuriers vont lui poser : il écrit celle-ci sur un morceau de papier qu'il dissimule. Ils demandent ensuite aux aventuriers de nommer un problème (cela peut-être des choses très différentes : "la machine à café ne marche pas","la faim dans le monde", etc.). Mais le devin souhaite une convergence sur ce problème : on fait voter à mains levées les aventuriers : c'est un vrai problème : on lève la main, sinon non. Quand le devin a trouvé un problème qui satisfasse la majorité des aventuriers il leur demande les raisons du problème. Il les note sur un tableau blanc. Des choses comme : "les managers...", "les gouvernements...", "le propriétaire...", "les gens de chez..." etc. Quand il en a assez il dévoile son oracle : "la faute d'un autre !"<br/> Se référer aux niveaux/processus de responsabilité de Christopher Avery pour les discussions suivantes.  
+    
+    [responsability process](http://www.christopheravery.com/responsibility-process)
+    
+    <br/>L'épreuve est réussie si les aventuriers se décrivent comme responsable du problème. 
+     
 
     Allez, [rendez-vous à la case départ](index.html)
