@@ -1,0 +1,20 @@
+title: Le village des noms oubliés
+subtitle: Mon nom est personne.
+image: img/15-octoeye.jpg
+intro:
+
+    A faire, jeu Knibberg multitâches
+
+choices:
+    -
+        text: bla bla
+        next: oubli_vic
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla 
+        next: oubli_ep
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla
+        next: oubli_ep
+        notes: bla bla, +1 feedback

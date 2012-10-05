@@ -1,0 +1,20 @@
+title: Le devin 
+subtitle: Ou Oracle de Delphi. 
+image: img/hermit.jpg
+intro:
+
+    A faire, Jeu du devin (pablo prépare)
+
+choices:
+    -
+        text: bla bla
+        next: devin_vic
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla 
+        next: devin_ep
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla
+        next: devin_ep
+        notes: bla bla, +1 feedback

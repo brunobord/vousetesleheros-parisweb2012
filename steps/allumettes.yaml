@@ -1,0 +1,20 @@
+title: Les petits aventuriers aux allumettes 
+subtitle: Qu'est ce que la sophistication ?
+image: img/green_potion.jpg
+intro:
+
+    A faire, jeu Pablo
+
+choices:
+    -
+        text: bla bla
+        next: allumettes_vic
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla 
+        next: allumettes_ep
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla
+        next: allumettes_ep
+        notes: bla bla, +1 feedback

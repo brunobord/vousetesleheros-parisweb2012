@@ -1,0 +1,20 @@
+title: Perséphone retourne toi !  
+subtitle: argh.  
+image: img/doloreane.jpg
+intro:
+
+    A faire,rétrospective 
+
+choices:
+    -
+        text: bla bla
+        next: retrospective_vic
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla 
+        next: retrospective_ep
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla
+        next: retrospective_ep
+        notes: bla bla, +1 feedback

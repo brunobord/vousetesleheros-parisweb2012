@@ -1,0 +1,20 @@
+title: Les potions délirantes
+subtitle: Faire jouer le collectif
+image: img/potion.jpg
+intro:
+
+    A faire, jeu Bruno
+
+choices:
+    -
+        text: bla bla
+        next: potions_vic
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla 
+        next: potions_ep
+        notes: bla bla, +1 feedback
+    -
+        text: bla bla
+        next: potions_ep
+        notes: bla bla, +1 feedback
