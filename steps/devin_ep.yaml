@@ -1,0 +1,20 @@
+template: proof.html
+title: Le devin
+subtitle: Ou Oracle de Delphi. 
+image: img/hermit.jpg
+gift: Une once de maturité.
+intro: |
+
+    Le devin a quelque chose à vous avouer. 
+    Quand c'est fait, avec la grande majorité des aventuriers, essayez de choisir un problème.
+    
+    Puis essayez de trouver les raisons de ce problème.
+
+    C'est fait ? Parle oracle ! parle !
+
+
+choices:
+    -
+        text: Rendez vous à l'étape suivante
+        next: devin_vic
+        notes: null

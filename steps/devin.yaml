@@ -3,18 +3,12 @@ subtitle: Ou Oracle de Delphi.
 image: img/hermit.jpg
 intro:
 
-    A faire, Jeu du devin (pablo prépare)
+    J'étais sûr que vous viendriez sur la page du devin. Je l'avais lu dans mon marc de café. Et d'ailleurs je sais par avance que vous allez échouer en répondant à mes questions. Je vous propose donc d'aller droit au but, évitons les questions auxquelles vous allez mal répondre, et lançons nous directement dans l'épreuve où vous allez échouer.  
 
 choices:
+    
     -
-        text: bla bla
-        next: devin_vic
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla 
+        text: Epreuve où vous allez échouer
         next: devin_ep
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla
-        next: devin_ep
-        notes: bla bla, +1 feedback
+        notes: Pas de divination dans les projets agiles, -1 transparence
+    
