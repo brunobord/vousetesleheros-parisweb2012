@@ -19,7 +19,7 @@ intro: |
 
     ----
 
-    ## Auberge du nain saoûl
+    ## [Auberge du nain saoûl](dwarf.html)
     
     Dot Voting 
     
@@ -27,7 +27,7 @@ intro: |
     Tous les participants écrivent 2 raisons valables de passer à l'agile sur une fiche. 
     Puis on parcours toutes les fiches rapidement : lecture de l'intitulé. Si l'intitulé est abscon, on demande à la personne l'ayant écrit d'en expliquer très rapidement (une phrase) le contenu. On demande enfin à tous les participants de placer 4 points sur les fiches. La fiche ayant le maximum de points sera discutée (5/10mn), avec le retour des maîtres du jeu.  <br/>L'épreuve est réussie si les maîtres du jeu jugent la fiche sélectionnée intéressante.
     
-    ## Le mur des espoirs
+    ## [Le mur des espoirs](mur.html)
     
     Estimation : le planning silencieux<br/>
     On découpe en deux groupes les aventuriers<br/>
@@ -44,7 +44,7 @@ intro: |
         </ul>
     Chacun des groupes à 5mn pour positionner les user stories sur un mur (patafix). Sachant que la plus facile à réaliser doit être à gauche, la plus dure à droite. L'espace devant représenter l'écart dans la difficulté. Deux stories jugées identique seront au même niveau (l'une sur l'autre). Attention l'atelier doit être réalisé dans le silence le plus complet. Les stories peuvent bouger jusqu'à la dernière seconde. <br/>L'épreuve est réussie si les deux estimations se ressemblent assez.    
 
-    ## Atelier de l'amulette de la mémoire
+    ## [Atelier de l'amulette de la mémoire](amulette.html)
 
     Annoncer que vous démarrer avec un petit atelier (pour que les aventuriers ne se focalisent pas trop... gnark gnark). Tracez manuellement "à la va vite" les deux traits, l'un clairement plus long que l'autre. Demandez aux aventuriers de dire si 1) le trait A est le plus long, 2) le trait B est le plus long 3) les deux traits sont de même longueur (vous pouvez utiliser les ballons de couleurs), donnez 10s.
 
@@ -57,7 +57,25 @@ intro: |
     Cette idée m'a été présentée par Claude E. Il se reconnaitra.
     <br/>L'épreuve est réussie si les aventuriers ne font pas trop appel à leur mémoire du muscle.
 
-    ## Le devin 
+    ## [Le puzzle des kobolds](kobolds.html) 
+    
+    "Open-ended specifications"
+    
+    Il faut séparer le groupe en deux. Chaque groupe va avoir 2mn pour réaliser des spécifications (voir la page du jeu). Les premières spécifications sont très précises, et il se peut que a) les aventuriers se perdent dans les détails, b) qu'ils oublient la vision : "une belle prairie d'été". Le temps ne va pas les aider. 
+    
+    Faîtes les rester pour observer en silence le deuxième groupe. Lui a des spécifications simples et évocatrices, "une belle prairie d'été".
+    
+    On devrait observer qu'avec une "vision" simple et évocatrice on arrive à des choses bien plus achevées, et que l'autonomie donnée aux aventuriers est productive. 
+    
+    Vous demandez au premier groupe, qui est resté silencieux, d'expliquer ce que vous souhaitez démontrer. 
+    
+    D'accord pour des besoins très précis, mais pas dans un premier temps, ou si ils ont rattachés à une vision. 
+    
+    <br/>L'épreuve est réussie si les aventuriers du premier groupe qui sont restés silencieux durant les travaux du deuxième ont compris ce que l'on souhaitait démontrer.  
+      
+
+
+    ## [Le devin](devin.html) 
 
     A tout moment les aventuriers peuvent décider de se rendre chez le Devin. 
     En sortant du devin les aventuriers doivent revenir à l'endroit où ils se trouvaient précédemment, puis choisir une destination. 
