@@ -4,3 +4,10 @@ image: img/final.jpg
 intro: |
 
     # Merci à tous !
+    
+    
+choices:
+    -
+        text: Rendez-vous à la rétrospective
+        next: retrospective
+        notes: null    

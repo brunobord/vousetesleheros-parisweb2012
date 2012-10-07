@@ -1,20 +1,20 @@
 title: Perséphone retourne toi !  
 subtitle: argh.  
-image: img/doloreane.jpg
-intro:
+image: img/speednazgul.jpg
+intro: 
 
-    A faire,rétrospective 
+    Merci d'avoir joué avec nous. 
+           
+    Essayons de jeter un oeil en arrière pour savoir ce qui a bien marché, 
+    et ce qui a moins bien marché. C'est le moment de la rétrospective, entrez dans 
+    la marmite de l'amélioration continue.
+    
+    
+    <ol>
+        <li>Essayons de dresser la ligne du temps des évènements</li>
+        <li>Essayons de mettre en évidence les choses qui ont pu nous freiner ou nous aider en 
+        utilisant le speednazgul</li>
+    </ol>     
+    
+ 
 
-choices:
-    -
-        text: bla bla
-        next: retrospective_vic
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla 
-        next: retrospective_ep
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla
-        next: retrospective_ep
-        notes: bla bla, +1 feedback
