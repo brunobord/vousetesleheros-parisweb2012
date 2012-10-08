@@ -17,5 +17,9 @@ choices:
     -
         text: Le très dangereux dragon ?
         next: dragon
-        notes: null
+        notes: null   
+    -
+        text: L'auberge du nain saoûl ?
+        next: dwarf
+        notes: null        
 

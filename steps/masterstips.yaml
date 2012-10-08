@@ -32,16 +32,16 @@ intro: |
     Estimation : le planning silencieux<br/>
     On découpe en deux groupes les aventuriers<br/>
     On délivre à chaque groupe une copie (chaque story découpée) d'un "backlog" à estimer : 
-        <ul>
-            <li>Lire 10 pages concernant les derniers sortilèges à la mode dans Magie Plus</li>
-            <li>Lire 5 pages de recherches techniques sur la pierre de philosophale dans la revue du "clerc érudit"</li>
-            <li>Ecrire un ouvrage sur la vente par correspondance (télékinésie) de 10 pages</li>
-            <li>Recruter, interviewer, valider un nouveau membre pour la guilde des commerçants</li>
-            <li>Préparer un conte de 60mn pour le suzerain du château voisin</li>
-            <li>Nettoyer finement vos 4 épées, elles doivent briller</li>
-            <li>Traduire 76 pages d'elfe en orc concernant la reproduction chez les Kobolds</li>
-            <li>Lire 150 pages de "régles de savoir vivre en noblesse"</li> 
-        </ul>
+        
+     * Lire 10 pages concernant les derniers sortilèges à la mode dans Magie Plus
+     * Lire 5 pages de recherches techniques sur la pierre de philosophale dans la revue du "clerc érudit"
+     * Ecrire un ouvrage sur la vente par correspondance (télékinésie) de 10 pages
+     * Recruter, interviewer, valider un nouveau membre pour la guilde des commerçants
+     * Préparer un conte de 60mn pour le suzerain du château voisin
+     * Nettoyer finement vos 4 épées, elles doivent briller
+     * Traduire 76 pages d'elfe en orc concernant la reproduction chez les Kobolds
+     * Lire 150 pages de "régles de savoir vivre en noblesse"
+       
     Chacun des groupes à 5mn pour positionner les user stories sur un mur (patafix). Sachant que la plus facile à réaliser doit être à gauche, la plus dure à droite. L'espace devant représenter l'écart dans la difficulté. Deux stories jugées identique seront au même niveau (l'une sur l'autre). Attention l'atelier doit être réalisé dans le silence le plus complet. Les stories peuvent bouger jusqu'à la dernière seconde. <br/>L'épreuve est réussie si les deux estimations se ressemblent assez.    
 
     ## [Atelier de l'amulette de la mémoire](amulette.html)
@@ -98,6 +98,28 @@ intro: |
     <br/>L'épreuve est réussie si les aventuriers réussissent à se compter. 
     
     
+    ## [L'hydre](hydre.html) 
+    
+    Le jeu des chaises.
+    
+    Voici les objectifs à distribuer aux 3 groupes : 
+    
+     * Vous devez former un rond avec toutes les chaises pour gagner
+     * Vous devez mettre toutes les chaises à l'envers pour gagner
+     * Vous devez mettre réunir toutes les chaises par paire (2 chaises forment une paire) pour gagner
+        
+    Normalement tout le monde va se débattre pour gagner, c'est impossible si les groupes ne se rendent pas compte qu'ils ne gagneront qu'ensemble. Leurs objectifs divergent mais ils peuvent converger pour gagner : un grand rond de paires de chaises retournées. 
+    
+    Le jeu doit se dérouler dans le **silence le plus complet** afin que l'évidence viennent à chacun personnellement et pas par l'explication d'un tiers. 
+    
+    L'épreuve est réussie si les aventuriers réussissent à atteindre leurs différents objectifs dans les 8mn.  
+    
+    ## [Final](final.html)   
+
+    L'épreuve est assez expliquée [là](final_ep.html)
+    
+    A SudWeb2012 nous avons passé du Motörhead (Overkill) en fond durant l'épreuve pour rythmer les aventuriers. Cela s'est assez bien déroulé.
+
 
     ## [Le devin](devin.html) 
 
