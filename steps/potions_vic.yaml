@@ -1,0 +1,15 @@
+title: Les potions délirantes
+subtitle: Faire jouer le collectif
+image: img/potion.jpg
+intro: |
+
+    En anglais... goûter se dit "to taste".
+
+    Tester... to taste...
+
+    Vous reprendrez bien un petit dernier pour la route ?
+
+choices:
+    -
+        text: En titubant, vous progressez...
+        next: grandecarte
