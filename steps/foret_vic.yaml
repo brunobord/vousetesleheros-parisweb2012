@@ -26,7 +26,7 @@ choices:
         text: Les tours grises ?  
         next: tours
         notes: null
-     -
+    -
         text: Le gnome aveugle (et son tunnel) ?  
         next: tunnel
         notes: null
