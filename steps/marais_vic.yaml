@@ -8,6 +8,19 @@ intro:
 
 choices:
     -
-        text: Vous sortez des marais
+        text: Le passage des marais au travers des Monts Koudebour ? 
         next: passage_marais
         notes: null
+    -
+        text: La forêt noire ? 
+        next: foret
+        notes: null
+    -
+        text: Les potions délirantes ? 
+        next: potions
+        notes: null
+    -
+        text: Le très dangereux dragon ? 
+        next: dragon 
+        notes: null         
+       

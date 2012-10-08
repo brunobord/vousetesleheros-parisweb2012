@@ -8,7 +8,18 @@ intro:
 
 choices:
     -
-        text: Vous sortez du tunnel
+        text: Traverser le tunnel du gnome aveugle
         next: passage_tunnel
         notes: null
-
+    -
+        text: La forêt noire
+        next: foret
+        notes: null        
+    -
+        text: Le très dangereux dragons 
+        next: dragon
+        notes: null
+    -
+        text: Les tours grises
+        next: tours
+        notes: null
