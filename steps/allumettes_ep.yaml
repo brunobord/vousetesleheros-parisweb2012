@@ -1,0 +1,15 @@
+template: proof.html
+title: Les petits aventuriers aux allumettes 
+subtitle: Qu'est ce que la sophistication ?
+image: img/green_potion.jpg
+gift: un briquet
+intro: |
+
+
+    à faire
+
+choices:
+    -
+        text: Rendez vous à l'étape suivante
+        next: allumettes_vic
+        notes: null

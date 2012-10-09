@@ -11,6 +11,24 @@ intro:
 
 choices:
     -
-        text: Vous entrez dans la forêt
+        text: Le passage de la forêt noire vers les Monts Koudebour ?
         next: passage_foret
         notes: null
+    -
+        text: Les marais de la discorde ?  
+        next: marais
+        notes: null
+    -
+        text: Le très dangereux dragon ?  
+        next: dragon
+        notes: null
+    -
+        text: Les tours grises ?  
+        next: tours
+        notes: null
+    -
+        text: Le gnome aveugle (et son tunnel) ?  
+        next: tunnel
+        notes: null
+        
+        

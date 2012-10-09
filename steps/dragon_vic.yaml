@@ -18,3 +18,19 @@ choices:
         text: Les marais de la discorde ?
         next: marais
         notes: null
+    -
+        text: L'amulette de la mémoire ?
+        next: amulette
+        notes: null
+    -
+        text: La forêt noire ?
+        next: foret
+        notes: null
+    -
+        text: Les potions délirantes ?
+        next: potions
+        notes: null
+    -
+        text: Le mur des espoirs ?
+        next: mur
+        notes: null

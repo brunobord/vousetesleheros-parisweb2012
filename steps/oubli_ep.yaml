@@ -1,0 +1,14 @@
+template: proof.html
+title: Le village des noms oubliés
+subtitle: Mon nom est personne.
+image: img/15-octoeye.jpg
+gift: Je ne sais plus ce que c'était.
+intro: |
+
+    à vaincre
+
+choices:
+    -
+        text: Rendez-vous à l'étape suivante
+        next: oubli_vic
+        notes: null

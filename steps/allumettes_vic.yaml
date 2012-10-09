@@ -1,0 +1,20 @@
+title: Les petits aventuriers aux allumettes 
+subtitle: Qu'est ce que la sophistication ?
+image: img/green_potion.jpg
+intro:
+
+    à faire
+
+choices:
+    -
+        text: Le puzzle des Kobolds ?
+        next: kobolds
+        notes: null
+    -
+        text: Les tours grises ?
+        next: tours
+        notes: null
+    -
+        text: Le village des noms oubliés ? 
+        next: oubli
+        notes: null

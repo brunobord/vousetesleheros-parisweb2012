@@ -22,3 +22,11 @@ choices:
         text: Le mur des espoirs ?
         next: mur
         notes: null
+    -
+        text: Le très dangereux dragon ?
+        next: dragon
+        notes: null
+    -
+        text: L'auberge du nain saoûl ?
+        next: dwarf
+        notes: null

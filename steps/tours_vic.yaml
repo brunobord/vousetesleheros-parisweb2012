@@ -12,10 +12,22 @@ choices:
         next: tunnel
         notes: null
     -
-        text: Le très terrible dragon ?
+        text: Le très dangereux dragon ?
         next: dragon
         notes: null
     -
         text: La forêt noire ?
         next: foret
+        notes: null
+    -
+        text: Le village des noms oubliés ?
+        next: oubli
+        notes: null
+    -
+        text: Les petits aventuriers aux allumettes ?
+        next: allumettes
+        notes: null
+    -
+        text: L'amulette de la mémoire ?
+        next: amulette
         notes: null

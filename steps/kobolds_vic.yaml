@@ -15,4 +15,11 @@ choices:
         text: L'amulette de la mémoire ?
         next: amulette
         notes: null
-
+    -
+        text: Les petits aventuriers aux allumettes ?
+        next: allumettes
+        notes: null        
+    -
+        text: L'auberge du nain saoûl ?
+        next: dwarf
+        notes: null
