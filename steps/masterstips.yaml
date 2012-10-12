@@ -135,19 +135,6 @@ intro: |
 
     <br/>L'épreuve est réussie si les aventuriers se décrivent comme responsable du problème.
 
-
-    ## [La rétrospective](retrospective.html)
-
-    Essayons de réaliser la rétrospective en 2 parties : récupérer les données, les points à  améliorer.
-
-    <ol>
-        <li>Réalisons une ligne du temps (timeline) qui retrace l'aventure. On trace un trait fictif ou non sur un mur.</li>
-        <li>Sur cette ligne avec des post-its on place les évènements : lieux visités, épreuves, points récupérés ou perdus sur les valeurs, etc.</li>
-        <li>Puis on demande aux aventuriers de placer au dessus de la ligne, les points positifs (liés aux évènements ou qui se sont déroulés lors de ces évènements, mais pas forcément liés)</li>
-        <li>En même temps, ils peuvent placés en dessous de la ligne (toujours des post-its), les points négatifs sur la ligne du temps</li>
-        <li>Pour finir si le temps le permet on peut demander un "dot voting" sur les points négatifs qui peuvent être corrigés</li>
-    </ol>
-
     ---
 
     ## [Les potions délirantes](potions.html)
@@ -179,5 +166,18 @@ intro: |
     3. L'aventurier questionné indique une bonne potion : l'équipe marque 2 points.
     4. L'aventurier questionné ne sait pas : l'aventurier en jeu conserve ses 2 autres choix.
 
+    ---
+    
+    ## [La rétrospective](retrospective.html)
+
+    Essayons de réaliser la rétrospective en 2 parties : récupérer les données, les points à  améliorer.
+
+    <ol>
+        <li>Réalisons une ligne du temps (timeline) qui retrace l'aventure. On trace un trait fictif ou non sur un mur.</li>
+        <li>Sur cette ligne avec des post-its on place les évènements : lieux visités, épreuves, points récupérés ou perdus sur les valeurs, etc.</li>
+        <li>Puis on demande aux aventuriers de placer au dessus de la ligne, les points positifs (liés aux évènements ou qui se sont déroulés lors de ces évènements, mais pas forcément liés)</li>
+        <li>En même temps, ils peuvent placés en dessous de la ligne (toujours des post-its), les points négatifs sur la ligne du temps</li>
+        <li>Pour finir si le temps le permet on peut demander un "dot voting" sur les points négatifs qui peuvent être corrigés</li>
+    </ol>
 
     Allez, [rendez-vous à la case départ](index.html)
