@@ -1,0 +1,26 @@
+title: Les potions délirantes
+subtitle: Faire jouer le collectif
+image: img/potion.jpg
+intro: |
+
+    Trois choix :
+
+    * Boire d'un trait : 5 points ou remise à zéro du compteur
+    * Demander à un coéquipier :
+
+        * Le coéquipier est "mort" : vous passez votre tour
+        * Le coéquipier indique un poison : 1 point
+        * Le coéquipier indique une potion normale : 2 points
+        * Le coéquipier ne sait pas : vous choisissez vous-même.
+
+    * Goûter une potion : 1 point ou zéro.
+
+
+choices:
+    -
+        text: Vous avez atteint le bon nombre de points
+        next: potions_vic
+        notes: Bravo ! vous obtenez une boule de cristal (qui prédit le passé)
+    -
+        text: Aïe Ouille mal de crâne ça tape fort ces potions...
+        next: grandecarte

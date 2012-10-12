@@ -1,20 +1,14 @@
 title: Les potions délirantes
 subtitle: Faire jouer le collectif
 image: img/potion.jpg
-intro:
+intro: |
 
-    A faire, jeu Bruno
+    Un tavernier borgne, manchot et aux dents noires vous propose de déguster
+    ses cocktails. À y bien regarder, c'est vraiment peu engageant. Mais vous
+    avez une aventure à accomplir, alors il va bien falloir vous y mettre.
 
 choices:
     -
-        text: bla bla
-        next: potions_vic
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla 
+        text: Vous vous asseyez au comptoir
         next: potions_ep
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla
-        next: potions_ep
-        notes: bla bla, +1 feedback
+

@@ -3,7 +3,7 @@ image: img/heman.jpg
 intro: |
 
     ### <span style="color:red;"><img src=assets/img/spoiler.png style="float:left;">Si vous comptez jouer, ne pas lire au risque de mettre en l'air votre plaisir, celui des autres participants, et celui des maîtres du jeu.</span><hr/>
-     
+
 
     ## Rythmer les moments de décision des aventuriers
 
@@ -20,19 +20,20 @@ intro: |
     ----
 
     ## [Auberge du nain saoûl](dwarf.html)
-    
-    Dot Voting 
-    
-    Si le groupe échoue, nous faisons un dot voting. 
-    Tous les participants écrivent 2 raisons valables de passer à l'agile sur une fiche. 
+
+    Dot Voting
+
+    Si le groupe échoue, nous faisons un dot voting.
+    Tous les participants écrivent 2 raisons valables de passer à l'agile sur une fiche.
     Puis on parcours toutes les fiches rapidement : lecture de l'intitulé. Si l'intitulé est abscon, on demande à la personne l'ayant écrit d'en expliquer très rapidement (une phrase) le contenu. On demande enfin à tous les participants de placer 4 points sur les fiches. La fiche ayant le maximum de points sera discutée (5/10mn), avec le retour des maîtres du jeu.  <br/>L'épreuve est réussie si les maîtres du jeu jugent la fiche sélectionnée intéressante.
-    
+
     ## [Le mur des espoirs](mur.html)
-    
-    Estimation : le planning silencieux<br/>
-    On découpe en deux groupes les aventuriers<br/>
-    On délivre à chaque groupe une copie (chaque story découpée) d'un "backlog" à estimer : 
-        
+
+    Estimation : le planning silencieux
+    On découpe en deux groupes les aventuriers
+
+    On délivre à chaque groupe une copie (chaque story découpée) d'un "backlog" à estimer :
+
      * Lire 10 pages concernant les derniers sortilèges à la mode dans Magie Plus
      * Lire 5 pages de recherches techniques sur la pierre de philosophale dans la revue du "clerc érudit"
      * Ecrire un ouvrage sur la vente par correspondance (télékinésie) de 10 pages
@@ -41,8 +42,8 @@ intro: |
      * Nettoyer finement vos 4 épées, elles doivent briller
      * Traduire 76 pages d'elfe en orc concernant la reproduction chez les Kobolds
      * Lire 150 pages de "régles de savoir vivre en noblesse"
-       
-    Chacun des groupes à 5mn pour positionner les user stories sur un mur (patafix). Sachant que la plus facile à réaliser doit être à gauche, la plus dure à droite. L'espace devant représenter l'écart dans la difficulté. Deux stories jugées identique seront au même niveau (l'une sur l'autre). Attention l'atelier doit être réalisé dans le silence le plus complet. Les stories peuvent bouger jusqu'à la dernière seconde. <br/>L'épreuve est réussie si les deux estimations se ressemblent assez.    
+
+    Chacun des groupes à 5mn pour positionner les user stories sur un mur (patafix). Sachant que la plus facile à réaliser doit être à gauche, la plus dure à droite. L'espace devant représenter l'écart dans la difficulté. Deux stories jugées identique seront au même niveau (l'une sur l'autre). Attention l'atelier doit être réalisé dans le silence le plus complet. Les stories peuvent bouger jusqu'à la dernière seconde. <br/>L'épreuve est réussie si les deux estimations se ressemblent assez.
 
     ## [Atelier de l'amulette de la mémoire](amulette.html)
 
@@ -57,97 +58,126 @@ intro: |
     Cette idée m'a été présentée par Claude E. Il se reconnaitra.
     <br/>L'épreuve est réussie si les aventuriers ne font pas trop appel à leur mémoire du muscle.
 
-    ## [Le puzzle des kobolds](kobolds.html) 
-    
+    ## [Le puzzle des kobolds](kobolds.html)
+
     "Open-ended specifications"
-    
-    Il faut séparer le groupe en deux. Chaque groupe va avoir 2mn pour réaliser des spécifications (voir la page du jeu). Les premières spécifications sont très précises, et il se peut que a) les aventuriers se perdent dans les détails, b) qu'ils oublient la vision : "une belle prairie d'été". Le temps ne va pas les aider. 
-    
+
+    Il faut séparer le groupe en deux. Chaque groupe va avoir 2mn pour réaliser des spécifications (voir la page du jeu). Les premières spécifications sont très précises, et il se peut que a) les aventuriers se perdent dans les détails, b) qu'ils oublient la vision : "une belle prairie d'été". Le temps ne va pas les aider.
+
     Faîtes les rester pour observer en silence le deuxième groupe. Lui a des spécifications simples et évocatrices, "une belle prairie d'été".
-    
-    On devrait observer qu'avec une "vision" simple et évocatrice on arrive à des choses bien plus achevées, et que l'autonomie donnée aux aventuriers est productive. 
-    
-    Vous demandez au premier groupe, qui est resté silencieux, d'expliquer ce que vous souhaitez démontrer. 
-    
-    D'accord pour des besoins très précis, mais pas dans un premier temps, ou si ils ont rattachés à une vision. 
-    
-    <br/>L'épreuve est réussie si les aventuriers du premier groupe qui sont restés silencieux durant les travaux du deuxième ont compris ce que l'on souhaitait démontrer.  
-      
+
+    On devrait observer qu'avec une "vision" simple et évocatrice on arrive à des choses bien plus achevées, et que l'autonomie donnée aux aventuriers est productive.
+
+    Vous demandez au premier groupe, qui est resté silencieux, d'expliquer ce que vous souhaitez démontrer.
+
+    D'accord pour des besoins très précis, mais pas dans un premier temps, ou si ils ont rattachés à une vision.
+
+    <br/>L'épreuve est réussie si les aventuriers du premier groupe qui sont restés silencieux durant les travaux du deuxième ont compris ce que l'on souhaitait démontrer.
+
     ## [les tours grises](tours.html)
-    
+
     [Zhong-Zi](http://tastycupcakes.org/2011/08/zhong-zhi-a-one-handed-agile-game-for-illustrating-problems-and-finding-solutions/)
-    
-    <br/>L'épreuve est réussie si les aventuriers changent le système ou disent non.  
-    
+
+    <br/>L'épreuve est réussie si les aventuriers changent le système ou disent non.
+
     ## [Les marais de la discorde](marais.html)
-    
+
     L'épreuve est clairement décrite [là](marais_ep.html)
-    
-    Essayez de bouger les aventuriers (de les déplacer en silence) pour les perturber si nécessaire. 
+
+    Essayez de bouger les aventuriers (de les déplacer en silence) pour les perturber si nécessaire.
     A eux de dire non.
-    
-    <br/>L'épreuve est réussie si les aventuriers réussissent à compter jusqu'à 42. 
-    
+
+    <br/>L'épreuve est réussie si les aventuriers réussissent à compter jusqu'à 42.
+
     ## [La forêt noire](foret.html)
-    
+
     L'épreuve est clairement décrite [là](foret_ep.html)
-    
+
     Demandez d'abord aux aventuriers de fermer les yeux avant de leur expliquer le but de l'épreuve.
-    Puis déplacez en certains. 
-    
-    <br/>L'épreuve est réussie si les aventuriers réussissent à se compter. 
-    
-    
-    ## [L'hydre](hydre.html) 
-    
+
+    Puis déplacez en certains.
+
+    L'épreuve est réussie si les aventuriers réussissent à se compter.
+
+
+    ## [L'hydre](hydre.html)
+
     Le jeu des chaises.
-    
-    Voici les objectifs à distribuer aux 3 groupes : 
-    
+
+    Voici les objectifs à distribuer aux 3 groupes :
+
      * Vous devez former un rond avec toutes les chaises pour gagner
      * Vous devez mettre toutes les chaises à l'envers pour gagner
      * Vous devez mettre réunir toutes les chaises par paire (2 chaises forment une paire) pour gagner
-        
-    Normalement tout le monde va se débattre pour gagner, c'est impossible si les groupes ne se rendent pas compte qu'ils ne gagneront qu'ensemble. Leurs objectifs divergent mais ils peuvent converger pour gagner : un grand rond de paires de chaises retournées. 
-    
-    Le jeu doit se dérouler dans le **silence le plus complet** afin que l'évidence viennent à chacun personnellement et pas par l'explication d'un tiers. 
-    
-    L'épreuve est réussie si les aventuriers réussissent à atteindre leurs différents objectifs dans les 8mn.  
-    
-    ## [Final](final.html)   
+
+    Normalement tout le monde va se débattre pour gagner, c'est impossible si les groupes ne se rendent pas compte qu'ils ne gagneront qu'ensemble. Leurs objectifs divergent mais ils peuvent converger pour gagner : un grand rond de paires de chaises retournées.
+
+    Le jeu doit se dérouler dans le **silence le plus complet** afin que l'évidence viennent à chacun personnellement et pas par l'explication d'un tiers.
+
+    L'épreuve est réussie si les aventuriers réussissent à atteindre leurs différents objectifs dans les 8mn.
+
+    ## [Final](final.html)
 
     L'épreuve est assez expliquée [là](final_ep.html)
-    
+
     A SudWeb2012 nous avons passé du Motörhead (Overkill) en fond durant l'épreuve pour rythmer les aventuriers. Cela s'est assez bien déroulé.
 
+    ## [Le devin](devin.html)
 
-    ## [Le devin](devin.html) 
+    A tout moment les aventuriers peuvent décider de se rendre chez le Devin.
+    En sortant du devin, sauf ils se trouvent à la limite de la boite de temps,  les aventuriers doivent revenir à l'endroit où ils se trouvaient précédemment, puis choisir une destination.
+    Si ils se trouvent à la limite de la boite de temps, ils choisissent un passage dans lequel se
+    rendre : les marais, la forêt, le tunnel...
 
-    A tout moment les aventuriers peuvent décider de se rendre chez le Devin. 
-    En sortant du devin, sauf ils se trouvent à la limite de la boite de temps,  les aventuriers doivent revenir à l'endroit où ils se trouvaient précédemment, puis choisir une destination. 
-    Si ils se trouvent à la limite de la boite de temps, ils choisissent un passage dans lequel se 
-    rendre : les marais, la forêt, le tunnel...  
+    L'un des maîtres du jeu se présente comme le devin (ou l'oracle de Delphi). Son art, la divination, d'ailleurs il a déjà la réponse à la question que les aventuriers vont lui poser : il écrit celle-ci sur un morceau de papier qu'il dissimule. Ils demandent ensuite aux aventuriers de nommer un problème (cela peut-être des choses très différentes : "la machine à café ne marche pas","la faim dans le monde", etc.). Mais le devin souhaite une convergence sur ce problème : on fait voter à mains levées les aventuriers : c'est un vrai problème : on lève la main, sinon non. Quand le devin a trouvé un problème qui satisfasse la majorité des aventuriers il leur demande les raisons du problème. Il les note sur un tableau blanc. Des choses comme : "les managers...", "les gouvernements...", "le propriétaire...", "les gens de chez..." etc. Quand il en a assez il dévoile son oracle : "la faute d'un autre !"<br/> Se référer aux niveaux/processus de responsabilité de Christopher Avery pour les discussions suivantes.
 
-    L'un des maîtres du jeu se présente comme le devin (ou l'oracle de Delphi). Son art, la divination, d'ailleurs il a déjà la réponse à la question que les aventuriers vont lui poser : il écrit celle-ci sur un morceau de papier qu'il dissimule. Ils demandent ensuite aux aventuriers de nommer un problème (cela peut-être des choses très différentes : "la machine à café ne marche pas","la faim dans le monde", etc.). Mais le devin souhaite une convergence sur ce problème : on fait voter à mains levées les aventuriers : c'est un vrai problème : on lève la main, sinon non. Quand le devin a trouvé un problème qui satisfasse la majorité des aventuriers il leur demande les raisons du problème. Il les note sur un tableau blanc. Des choses comme : "les managers...", "les gouvernements...", "le propriétaire...", "les gens de chez..." etc. Quand il en a assez il dévoile son oracle : "la faute d'un autre !"<br/> Se référer aux niveaux/processus de responsabilité de Christopher Avery pour les discussions suivantes.  
-    
     [responsability process](http://www.christopheravery.com/responsibility-process)
-    
-    <br/>L'épreuve est réussie si les aventuriers se décrivent comme responsable du problème. 
-     
-     
-    ## [La rétrospective](retrospective.html)      
-     
-    Essayons de réaliser la rétrospective en 2 parties : récupérer les données, les points à  améliorer. 
-    
+
+    <br/>L'épreuve est réussie si les aventuriers se décrivent comme responsable du problème.
+
+
+    ## [La rétrospective](retrospective.html)
+
+    Essayons de réaliser la rétrospective en 2 parties : récupérer les données, les points à  améliorer.
+
     <ol>
         <li>Réalisons une ligne du temps (timeline) qui retrace l'aventure. On trace un trait fictif ou non sur un mur.</li>
         <li>Sur cette ligne avec des post-its on place les évènements : lieux visités, épreuves, points récupérés ou perdus sur les valeurs, etc.</li>
         <li>Puis on demande aux aventuriers de placer au dessus de la ligne, les points positifs (liés aux évènements ou qui se sont déroulés lors de ces évènements, mais pas forcément liés)</li>
-        <li>En même temps, ils peuvent placés en dessous de la ligne (toujours des post-its), les points négatifs sur la ligne du temps</li> 
+        <li>En même temps, ils peuvent placés en dessous de la ligne (toujours des post-its), les points négatifs sur la ligne du temps</li>
         <li>Pour finir si le temps le permet on peut demander un "dot voting" sur les points négatifs qui peuvent être corrigés</li>
-    </ol> 
-    
-       
+    </ol>
+
+    ---
+
+    ## [Les potions délirantes](potions.html)
+
+    Le jeu est un peu complexe mais il met en exergue les vertus du test
+    raisonnable et du travail en équipe au lieu du "cowboy coding", qui certes
+    donne l'impression d'aller plus vite, mais qui peut faire perdre du temps à
+    l'équipe et au projet.
+
+    Dans ce jeu, toute l'équipe quitte la pièce. On appelle chaque aventurier à
+    tour de rôle. Le premier voit 5 potions devant lui. Il désigne une potion et
+    a deux choix :
+
+    1. Boire une potion d'un seul coup,
+    2. Goûter simplement une potion.
+
+    Dans le cas "1", si la potion est un poison, il "meurt" et fait perdre tous
+    les points de son équipe. Si la potion est bonne, il fait gagner 5 points.
+
+    Dans le cas "2", si la potion est un poison, on marque zéro point. Si elle
+    est bonne, on gagne un point.
+
+    Les suivants conservent ces deux possibilités et en gagnent une autre :
+    celle de demander à un aventurier précédent s'il sait si la bouteille
+    choisie est un poison ou une "bonne" potion. Plusieurs possibilités :
+
+    1. L'aventurier questionné est "mort" précédemment. Il ne peut pas répondre.
+    2. L'aventurier questionné indique que c'est un poison : l'équipe marque 1 point.
+    3. L'aventurier questionné indique une bonne potion : l'équipe marque 2 points.
+    4. L'aventurier questionné ne sait pas : l'aventurier en jeu conserve ses 2 autres choix.
 
 
     Allez, [rendez-vous à la case départ](index.html)
