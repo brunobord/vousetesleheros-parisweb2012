@@ -1,20 +1,21 @@
 title: Les petits aventuriers aux allumettes 
 subtitle: Qu'est ce que la sophistication ?
 image: img/green_potion.jpg
-intro:
-
-    A faire, jeu Pablo
+ballon: 1
+intro: |
+    
+    Vous déboulez au milieu d'un village en ruine. Les habitants sont pourtant là. Ils vous expliquent que le village a été ravagé par une tempête d'origine douteuse. Les grandes et belles bucheronnes ont pu récolter un bon paquet de troncs pour se relancer dans la construction du dit village. Mais l'équipe est divisée:    
 
 choices:
     -
-        text: bla bla
-        next: allumettes_vic
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla 
+        text: Faut-il aller vite en besogne pour vite couvrir les habitants quitte à mal construire car l'important c'est avoir un toit rapidement ?   
         next: allumettes_ep
-        notes: bla bla, +1 feedback
+        notes: On t'a dit de construire une maison, pas une fenêtre... 
     -
-        text: bla bla
+        text: Faut-il prendre son temps quitte à dormir à la belle étoile cette première nuit ?
         next: allumettes_ep
-        notes: bla bla, +1 feedback
+        notes: On se caille la nuit ! bon sang ! 'spèce de perfectionniste, -1 simplicité
+    -
+        text: Et si organisait une petite fête avec les bucherons et les bucheronnes, on aura les idées plus claires demain. 
+        next: allumettes_ep
+        notes: La procrastination est un art que vous maîtrisez assurément. Dans ce cas je ne sais pas quoi en penser saligaud. Allez, à l'épreuve.  

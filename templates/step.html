@@ -48,9 +48,15 @@
             {% endif %}
             {% block extra %}{% endblock %}
             {% if choices %}
-                <ul>
+                <ul style="padding-left:30px; margin-left:20px">
+                {% set balloons = ['none','red', 'blue', 'yellow'] %}
                 {% for choice in choices %}
-                    <li>{% if choice.notes %}<a href="#note{{ loop.index }}" data-toggle="modal">{{ choice.text }}</a>{% else %}<a href="{{ choice.next }}.html">{{ choice.text }}</a>{% endif %}</li>
+                    {% set style = "list-style-image: url('assets/img/little_%s_balloon.jpg')" % balloons[loop.index] %}
+                    <li {% if ballon %} style="{{ style }}" {% endif %};>{% if choice.notes %}
+                    <a href="#note{{ loop.index }}" data-toggle="modal">
+                        {{ choice.text }}</a>{% else %}
+                         <a href="{{ choice.next }}.html">         
+                        {{ choice.text }}</a>{% endif %}</li>
                 {% endfor %}
                 </ul>
             {% endif %}
@@ -66,6 +72,7 @@
     </div>
 
 </div>
+
 
 {% for choice in choices %}
     {% if choice.notes %}
