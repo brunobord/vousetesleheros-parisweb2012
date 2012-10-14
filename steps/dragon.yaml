@@ -19,7 +19,7 @@ choices:
         next: dragon_ep
         notes: Après quoi... le test after n'est pas la marque de fabrique de l'agile, -1 feedback
     -
-        text: Quelqu'un se spécialise dans le rôle du testeur au sein de l'équipe
+        text: Tout le temps, par quelqu'un qui se spécialise dans le rôle du testeur au sein de l'équipe
         next: dragon_ep
         notes: Le testeur je ne sais pas qui c'est, pour moi je ne vois que l'équipe, -1 communication
     -
