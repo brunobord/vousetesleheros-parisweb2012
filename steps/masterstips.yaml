@@ -99,6 +99,47 @@ intro: |
 
     L'épreuve est réussie si les aventuriers réussissent à se compter.
 
+    ---
+
+    ## [Le village des glaces et des mirroirs déformants](mirrors.html)
+    
+    Les règles sont assez explicites dans les pages aventures.
+    Prenez soin de faire des groupes de moins de 10. 
+    Prenez soin de demander aux aventuriers de former des groupes de personnes qui ne se connaissent pas.
+    Prenez soin de s'assurer que chacun a son prenom bien visible et différencié sur un post-it sur lui. (quitte à utiliser des surnoms).  
+    
+    
+    ---
+
+    ## [Les potions délirantes](potions.html)
+
+    Le jeu est un peu complexe mais il met en exergue les vertus du test
+    raisonnable et du travail en équipe au lieu du "cowboy coding", qui certes
+    donne l'impression d'aller plus vite, mais qui peut faire perdre du temps à
+    l'équipe et au projet.
+
+    Dans ce jeu, toute l'équipe quitte la pièce. On appelle chaque aventurier à
+    tour de rôle. Le premier voit 5 potions devant lui. Il désigne une potion et
+    a deux choix :
+
+    1. Boire une potion d'un seul coup,
+    2. Goûter simplement une potion.
+
+    Dans le cas "1", si la potion est un poison, il "meurt" et fait perdre tous
+    les points de son équipe. Si la potion est bonne, il fait gagner 5 points.
+
+    Dans le cas "2", si la potion est un poison, on marque zéro point. Si elle
+    est bonne, on gagne un point.
+
+    Les suivants conservent ces deux possibilités et en gagnent une autre :
+    celle de demander à un aventurier précédent s'il sait si la bouteille
+    choisie est un poison ou une "bonne" potion. Plusieurs possibilités :
+
+    1. L'aventurier questionné est "mort" précédemment. Il ne peut pas répondre.
+    2. L'aventurier questionné indique que c'est un poison : l'équipe marque 1 point.
+    3. L'aventurier questionné indique une bonne potion : l'équipe marque 2 points.
+    4. L'aventurier questionné ne sait pas : l'aventurier en jeu conserve ses 2 autres choix.
+
 
     ## [L'hydre](hydre.html)
 
@@ -135,37 +176,7 @@ intro: |
 
     <br/>L'épreuve est réussie si les aventuriers se décrivent comme responsable du problème.
 
-    ---
-
-    ## [Les potions délirantes](potions.html)
-
-    Le jeu est un peu complexe mais il met en exergue les vertus du test
-    raisonnable et du travail en équipe au lieu du "cowboy coding", qui certes
-    donne l'impression d'aller plus vite, mais qui peut faire perdre du temps à
-    l'équipe et au projet.
-
-    Dans ce jeu, toute l'équipe quitte la pièce. On appelle chaque aventurier à
-    tour de rôle. Le premier voit 5 potions devant lui. Il désigne une potion et
-    a deux choix :
-
-    1. Boire une potion d'un seul coup,
-    2. Goûter simplement une potion.
-
-    Dans le cas "1", si la potion est un poison, il "meurt" et fait perdre tous
-    les points de son équipe. Si la potion est bonne, il fait gagner 5 points.
-
-    Dans le cas "2", si la potion est un poison, on marque zéro point. Si elle
-    est bonne, on gagne un point.
-
-    Les suivants conservent ces deux possibilités et en gagnent une autre :
-    celle de demander à un aventurier précédent s'il sait si la bouteille
-    choisie est un poison ou une "bonne" potion. Plusieurs possibilités :
-
-    1. L'aventurier questionné est "mort" précédemment. Il ne peut pas répondre.
-    2. L'aventurier questionné indique que c'est un poison : l'équipe marque 1 point.
-    3. L'aventurier questionné indique une bonne potion : l'équipe marque 2 points.
-    4. L'aventurier questionné ne sait pas : l'aventurier en jeu conserve ses 2 autres choix.
-
+    
     ---
     
     ## [La rétrospective](retrospective.html)
