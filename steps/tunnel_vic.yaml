@@ -23,3 +23,7 @@ choices:
         text: Les tours grises
         next: tours
         notes: null
+    -
+        text: Le village des noms oubliés ?
+        next: oubli
+        notes: null

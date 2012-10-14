@@ -24,8 +24,8 @@ choices:
         next: oubli
         notes: null
     -
-        text: Les petits aventuriers aux allumettes ?
-        next: allumettes
+        text: Le village des glaces ?
+        next: mirrors
         notes: null
     -
         text: L'amulette de la mémoire ?

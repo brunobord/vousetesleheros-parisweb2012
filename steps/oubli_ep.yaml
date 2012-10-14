@@ -2,6 +2,7 @@ template: proof.html
 title: Le village des noms oubliés
 subtitle: Mon nom est personne.
 image: img/frazetta.jpg
+chrono: yes
 gift: euh... merde j'ai oublié. 
 intro: |
 
