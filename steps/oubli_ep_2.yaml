@@ -2,12 +2,8 @@ template: proof.html
 title: Le village des noms oubliés
 subtitle: Mon nom est personne.
 image: img/frazetta.jpg
-<<<<<<< HEAD
 chrono: yes
 gift: une famille nombreuse. 
-=======
-gift: une famille nombreuse.
->>>>>>> 98492603484501903fb308f331a1a1a58c761202
 intro: |
 
     Gardez les groupes et les rôles !

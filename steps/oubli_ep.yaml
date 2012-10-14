@@ -2,12 +2,8 @@ template: proof.html
 title: Le village des noms oubliés
 subtitle: Mon nom est personne.
 image: img/frazetta.jpg
-<<<<<<< HEAD
 chrono: yes
 gift: euh... merde j'ai oublié. 
-=======
-gift: euh... merde j'ai oublié.
->>>>>>> 98492603484501903fb308f331a1a1a58c761202
 intro: |
 
     Après quelques instants vous réalisez que tous les villageois ont oublié

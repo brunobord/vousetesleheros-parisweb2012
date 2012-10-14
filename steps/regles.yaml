@@ -58,23 +58,6 @@ intro: |
     ----
 
     ### Le devin
-<<<<<<< HEAD
-    
-    A tout moment les aventuriers peuvent décider de se rendre chez le Devin. En sortant du devin, sauf 
-    ils se trouvent à la limite de la boite de temps,  les aventuriers doivent revenir à l'endroit où 
-    ils se trouvaient précédemment, puis choisir une destination. 
-    Si ils se trouvent à la limite de la boite de temps, ils choisissent un passage dans lequel se 
-    rendre : les marais, la forêt, le tunnel... 
-    
-    
-    ----
-    
-    ### Procrastination ? 
-    
-    A tout moment les aventuriers peuvent décider de s'offrir 2 minutes dans le manoir de la procrastination. Mais une seule fois dans l'aventure. 
-    
-    
-=======
 
     À tout moment les aventuriers peuvent décider de se rendre chez le Devin. En sortant du devin, sauf
     s'ils se trouvent à la limite de la boîte de temps, les aventuriers doivent revenir à l'endroit où
@@ -82,7 +65,13 @@ intro: |
     S'ils se trouvent à la limite de la boîte de temps, ils choisissent un passage dans lequel se
     rendre : les marais, la forêt, le tunnel...
 
->>>>>>> 98492603484501903fb308f331a1a1a58c761202
+    ----
+    
+    ### Procrastination ? 
+    
+    A tout moment les aventuriers peuvent décider de s'offrir 2 minutes dans le manoir de la 
+    procrastination. Mais une seule fois dans l'aventure. 
+
     ----
 
     ### Gagner ?
