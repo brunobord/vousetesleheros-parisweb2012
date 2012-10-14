@@ -3,7 +3,9 @@ subtitle: Mon nom est personne.
 image: img/frazetta.jpg
 intro:
 
-   Si les villageois ont pu su anticiper l'énorme différence de temps entre les deux façons de faire ainsi que la satisfaction des villageois(es) à avoir des projets courts (et oui). Vous avez gagnez !
+   Si les villageois ont vu l'énorme différence de temps entre les deux façons
+   de faire ainsi que la satisfaction des villageois(es) à avoir des projets
+   courts (eh oui). Vous avez gagné !
 
 choices:
     -
@@ -11,7 +13,7 @@ choices:
         next: tunnel
         notes: null
     -
-        text: Le village des glaces ? 
+        text: Le village des glaces ?
         next: mirrors
         notes: null
     -
