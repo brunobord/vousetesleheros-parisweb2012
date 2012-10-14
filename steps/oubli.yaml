@@ -1,21 +1,30 @@
 title: Le village des noms oubliés
 subtitle: Mon nom est personne.
-image: img/15-octoeye.jpg
+image: img/frazetta.jpg
 ballon: 1
-intro:
+intro: |
 
-    A faire, jeu Knibberg multitâches
+    Quand les aventuriers entrent dans le village une bien belle surprise les attend. Jamais ils n'ont vu de villageois et de villageoises aussi beaux, aussi séduisants, et même dévêtus, laissant apparaître de ci de là une belle poitrine, un beau torse, de belles cuisses musclées, de belles hanches...
+    
+    Les villageois et villageoises sont tout sourire. Ils vous interpellent : 
+        et bel étranger veux-tu m'aider à couper mon bois !?
+        et belle aventurière voudrais-tu m'aider à trier mon grain !?
+        et joli minois va te décider à m'aider à grimper à mon pommier ? 
+        et ma jolie, veux-tu secouer mes pêches ? 
+
+    Chaque aventurier est sollicité par une dizaine de jolis sourires. 
+    Vous êtes exaltés , mais comment répondre à toutes ces demandes à la fois du mieux possible ?
 
 choices:
     -
-        text: bla bla
+        text: Je traite une demande à la fois !
+        next: oubli_ep
+        notes: Pas mal mais peut mieux faire, tu es trop lent ! avec 2 demandes en parallèle tu aurais été meilleur. -1 adaptation
+    -
+        text: Je traite deux demandes à la fois !
         next: oubli_vic
-        notes: bla bla, +1 feedback
+        notes: C'est bien, faire 2 choses à la fois te permet d'être le plus performant possible, en dessous tu perds un peu temps, au dessus c'est pire ! +1 adaptation
     -
-        text: bla bla 
+        text: Je traite trois demandes à la fois !
         next: oubli_ep
-        notes: bla bla, +1 feedback
-    -
-        text: bla bla
-        next: oubli_ep
-        notes: bla bla, +1 feedback
+        notes: Prétentieux va ! avec 3 travaux en parallèle tu es moins bon qu'avec 1 seul ! la meilleure solution étant 2, -1 simplicité, -1 adaptation

@@ -1,0 +1,24 @@
+template: proof.html
+title: Le village des noms oubliés
+subtitle: Mon nom est personne.
+image: img/frazetta.jpg
+gift: une famille nombreuse. 
+intro: |
+
+    Gardez les groupes et les rôles !
+     
+    Deuxième essai :chaque aventurier essaye de satisafaire les villageois(es) un(e) à un(e).   
+     
+     * Tous les villageois donne chacun leur tour leur prénom. 
+     * On chronomètre le temps total
+     * Quand un nom est fini, l'aventurier le communique au villageois. 
+     * Chaque villageois observe à quel moment (dans le temps) il a commencé à donner la première lettre de son nom, à quel moment il a connu son nom complet de la part de l'aventurier. 
+     
+     
+     Avant de commencer vous pouvez demander aux villageois(es) si cela va aller plus vite ou non ?  
+      
+choices:
+    -
+        text: Avez vous pu satisfaire les villageois(es) ? réponse ici.  
+        next: oubli_vic
+        notes: null
