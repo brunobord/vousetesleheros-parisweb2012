@@ -5,15 +5,20 @@ ballon: 1
 intro: |
 
     Quand les aventuriers entrent dans le village une bien belle surprise les attend. Jamais ils n'ont vu de villageois et de villageoises aussi beaux, aussi séduisants, et même dévêtus, laissant apparaître de ci de là une belle poitrine, un beau torse, de belles cuisses musclées, de belles hanches...
-    
-    Les villageois et villageoises sont tout sourire. Ils vous interpellent : 
-        et bel étranger veux-tu m'aider à couper mon bois !?
-        et belle aventurière voudrais-tu m'aider à trier mon grain !?
-        et joli minois va te décider à m'aider à grimper à mon pommier ? 
-        et ma jolie, veux-tu secouer mes pêches ? 
 
-    Chaque aventurier est sollicité par une dizaine de jolis sourires. 
-    Vous êtes exaltés , mais comment répondre à toutes ces demandes à la fois du mieux possible ?
+    Les villageois et villageoises sont tout sourire. Ils vous interpellent :
+
+    \- hé bel étranger veux-tu m'aider à couper mon bois !?
+
+    \- hé belle aventurière voudrais-tu m'aider à trier mon grain !?
+
+    \- hé joli minois vas-tu te décider à m'aider à grimper à mon pommier ?
+
+    \- hé ma jolie, veux-tu secouer mes pêches ?
+
+    Chaque aventurier est sollicité par une dizaine de jolis sourires.
+    Vous êtes exhaltés, mais comment répondre à toutes ces demandes à la fois
+    du mieux possible ?
 
 choices:
     -

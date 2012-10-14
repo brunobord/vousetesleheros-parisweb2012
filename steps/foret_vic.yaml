@@ -1,7 +1,7 @@
 title: La forêt noire
 subtitle: la politique de l'autruche
 image: img/foret.jpg
-intro:
+intro: |
 
     La forêt sombre vous menace. Au loin, des cris et des rumeurs vous glacent
     le sang. On entend distinctement le reboot des serveurs au fond des bois.
@@ -15,20 +15,20 @@ choices:
         next: passage_foret
         notes: null
     -
-        text: Les marais de la discorde ?  
+        text: Les marais de la discorde ?
         next: marais
         notes: null
     -
-        text: Le très dangereux dragon ?  
+        text: Le très dangereux dragon ?
         next: dragon
         notes: null
     -
-        text: Les tours grises ?  
+        text: Les tours grises ?
         next: tours
         notes: null
     -
-        text: Le gnome aveugle (et son tunnel) ?  
+        text: Le gnome aveugle (et son tunnel) ?
         next: tunnel
         notes: null
-        
-        
+
+

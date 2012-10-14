@@ -2,9 +2,17 @@ title: L'hydre à 3 têtes
 subtitle: L'enfer c'est les autres têtes
 image: img/hydre.png
 ballon: 1
-intro:
+intro: |
 
-    Vous avez franchi le Mont Koudebour ! vous touchez bientôt au but...au pied des montagnes, un petit village vous accueille. Seul hic, les villageois vivent sous la tyrannie d'une redoutable hydre. Mais personne dans ce bourg n'est d'accord sur la manière de s'en débarrasser, ainsi chacune des initiatives échouent. cela vous rappelle-t-il quelque chose ? Sauriez vous aider le village ?
+    Vous avez franchi le Mont Koudebour ! vous touchez bientôt au but... au pied
+    des montagnes, un petit village vous accueille. Seul hic, les villageois
+    vivent sous la tyrannie d'une redoutable hydre. Mais personne dans ce bourg
+    n'est d'accord sur la manière de s'en débarrasser, ainsi chacune des
+    initiatives échouent.
+
+    Cela vous rappelle-t-il quelque chose ?
+
+    Sauriez-vous aider le village ?
 
 choices:
     -

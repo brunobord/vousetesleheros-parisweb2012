@@ -9,15 +9,17 @@ intro: |
 
     Vous avez 3 minutes pour me saisir ces estimations :
 
-     - Quel est le poids du moine agiliste ?
-     - Combien de pages html dans notre site web ?
-     - Combien de taxi dans Paris ?
+     - Quel est le poids du moîne agiliste ?
+     - Combien de pages HTML dans notre site web ?
+     - Combien de taxis dans Paris ?
 
 
     Observons...
 
 
-    <!-- 16.623 licences sont actuellement exploitées à Paris (15.800 en 2007), à quoi s'ajoutent 3.300 équivalents taxis (Source : préfecture de Police) au total 19.023 taxis sont à la disposition des parisiens. -->
+    <!-- 16.623 licences sont actuellement exploitées à Paris (15.800 en 2007),
+    à quoi s'ajoutent 3.300 équivalents taxis (Source : préfecture de Police) au
+    total 19.023 taxis sont à la disposition des parisiens. -->
 
 choices:
     -

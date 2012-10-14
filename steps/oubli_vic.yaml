@@ -3,7 +3,13 @@ subtitle: Mon nom est personne.
 image: img/frazetta.jpg
 intro:
 
+<<<<<<< HEAD
    Vous avez su honorer la satisfaction des villageois(es) ! 
+=======
+   Si les villageois ont vu l'énorme différence de temps entre les deux façons
+   de faire ainsi que la satisfaction des villageois(es) à avoir des projets
+   courts (eh oui). Vous avez gagné !
+>>>>>>> 98492603484501903fb308f331a1a1a58c761202
 
 choices:
     -
@@ -11,7 +17,7 @@ choices:
         next: tunnel
         notes: null
     -
-        text: Le village des glaces ? 
+        text: Le village des glaces ?
         next: mirrors
         notes: null
     -

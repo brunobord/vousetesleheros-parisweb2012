@@ -1,14 +1,21 @@
-title: Le devin 
-subtitle: Ou Oracle de Delphi. 
+title: Le devin
+subtitle: Ou Oracle de Delphi.
 image: img/hermit.jpg
-intro:
+intro: |
 
-    J'étais sûr que vous viendriez sur la page du devin. Je l'avais lu dans mon marc de café. Et d'ailleurs je sais par avance que vous allez échouer en répondant à mes questions. Je vous propose donc d'aller droit au but, évitons les questions auxquelles vous allez mal répondre, et lançons nous directement dans l'épreuve où vous allez échouer.  
+    J'étais sûr que vous viendriez sur la page du devin.
+
+    Je l'avais lu dans mon marc de café. Et d'ailleurs je sais par avance que
+    vous allez échouer en répondant à mes questions.
+
+    Je vous propose donc d'aller droit au but, évitons les questions auxquelles
+    vous allez mal répondre, et lançons-nous directement dans l'épreuve où vous
+    allez échouer.
 
 choices:
-    
+
     -
         text: Epreuve où vous allez échouer
         next: devin_ep
         notes: Pas de divination dans les projets agiles, -1 transparence
-    
+

@@ -5,7 +5,7 @@ image: img/mur.jpg
 gift: un jeu de tarots
 intro: |
 
-    Traverse la rivière avant d'insulter le crocodile disait l'oracle de Delphi
+    *“Traverse la rivière avant d'insulter le crocodile”*, disait l'oracle de Delphi
 
 choices:
     -

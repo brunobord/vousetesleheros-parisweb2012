@@ -2,27 +2,31 @@ template: proof.html
 title: Le village des noms oubliés
 subtitle: Mon nom est personne.
 image: img/frazetta.jpg
+<<<<<<< HEAD
 chrono: yes
 gift: euh... merde j'ai oublié. 
+=======
+gift: euh... merde j'ai oublié.
+>>>>>>> 98492603484501903fb308f331a1a1a58c761202
 intro: |
 
-    Après quelques instants vous réalisez que tous les villageois ont oubliés leurs noms. C'est un sortilège. Pour le rompre il faut que les aventuriers écrivent le nom des villageois. Ainsi ils pourront se le réapproprier.  
-    
+    Après quelques instants vous réalisez que tous les villageois ont oublié
+    leurs noms. C'est un sortilège. Pour le rompre il faut que les aventuriers
+    écrivent le nom des villageois. Ainsi ils pourront se le réapproprier.
+
      * Formez 3 groupes entre 6 et 8 personnes
-     * Pour chaque groupe : 1 personne représente les aventuriers, les autres sont les villageois 
-     
-    Premier essai :chaque aventurier essaye de satisafaire tous les villageois(es) à la fois  
-     
-     * Tous les villageois donne chacun leur tour une lettre (dans l'ordre) de leur prénom. 
+     * Pour chaque groupe : 1 personne représente les aventuriers, les autres sont les villageois
+
+    Premier essai :chaque aventurier essaye de satisafaire tous les villageois(es) à la fois
+
+     * Tous les villageois donne chacun leur tour une lettre (dans l'ordre) de leur prénom.
      * On chronomètre le temps total
-     * Quand un nom est fini, l'aventurier le communique au villageois. 
-     * Chaque villageois observe à quel moment (dans le temps) il a commencé à donner la première lettre de son nom, à quel moment il a connu son nom complet de la part de l'aventurier.  
-      
-      
-      
+     * Quand un nom est fini, l'aventurier le communique au villageois.
+     * Chaque villageois observe à quel moment (dans le temps) il a commencé à donner la première lettre de son nom, à quel moment il a connu son nom complet de la part de l'aventurier.
+
 
 choices:
     -
-        text: Observons une autre façon de faire 
+        text: Observons une autre façon de faire
         next: oubli_ep_2
         notes: null
