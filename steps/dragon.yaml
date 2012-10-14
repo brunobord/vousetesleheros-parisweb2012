@@ -15,14 +15,14 @@ intro: |
 
 choices:
     -
-        text: Réalisés par l'équipe durant les sprints de stabilisation
+        text: Réalisés par l'ensemble de l'équipe durant les sprints de stabilisation
         next: dragon_ep
         notes: Après quoi... le test after n'est pas la marque de fabrique de l'agile, -1 feedback
     -
-        text: Le testeur de l'équipe tout au long des itérations
+        text: Quelqu'un se spécialise dans le rôle du testeur au sein de l'équipe
         next: dragon_ep
-        notes: Le testeur je ne sais pas qui s'est, pour moi je ne vois que l'équipe, -1 communication
+        notes: Le testeur je ne sais pas qui c'est, pour moi je ne vois que l'équipe, -1 communication
     -
-        text: ben, tout le monde, l'équipe, tout le temps
+        text: ben, tout le monde, tout le temps
         next: dragon_vic
         notes: gooood boys, +1 feedback
