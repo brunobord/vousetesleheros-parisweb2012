@@ -1,0 +1,25 @@
+title: Le village des glaces 
+subtitle: ...et des miroirs déformants
+image: img/mirror.jpg
+ballon: 1
+intro: |
+    
+    Vous déboulez au milieu d'un village de glace, le village de QA. Les visages des habitants semblent hostiles. Etes vous les bienvenus ? Sans eux et un hébergement décent cette nuit, votre quête est foutue, le froid vous aura avalé. Vont-ils vous accueillir ou faudra-t-il les massacrer pour accéder à un lit bien mérité ? Peut-on leur faire confiance, ne vont-ils pas vous égorgez dans votre sommeil ?
+    
+    Leur chef s'avance et s'écrie : "Que voulez vous étrangers !? Nous sommes fatigués des aventuriers sans loi qui s'abreuvent à nos tonneaux, s'épanchent dans les bras de nos femmes et nous délivrent du code qui ne marche jamais". 
+    
+    Que répondez vous ?    
+
+choices:
+    -
+        text: Notre code parle pour nous !
+        next: mirrors_ep
+        notes: Ah si les développeurs se rappelaient plus qu'ils sont humains, et que jamais, oh non jamais un code ne parle. -1 communication 
+    -
+        text: Nous souhaitons dormir ici ce soir !
+        next: mirrors_vic
+        notes: Yep, soyez EXPLICITE. +1 simplicité
+    -
+        text: Tu nous accueilles d'une façon bien abrupte !
+        next: mirrors_ep
+        notes: Ce n'est pas faux mais cela ne fait pas avancer le schlimblick. Soyez plus explicite à l'avenir. -1 simplicité.   

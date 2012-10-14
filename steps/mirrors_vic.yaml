@@ -1,0 +1,24 @@
+title: Le village des glaces 
+subtitle: ...et des miroirs déformants
+image: img/mirror.jpg
+gift: les lunettes "réalité augmentée" du troll gogole. 
+intro:
+
+    Les observations sont-elles correctes ? A-t-on pu déceler qui vous êtes assez finement sans vraiment vous connaître ? C'est magnifique ! Vous avez vaincu le village des glaces.
+    
+    Armés de nouvelles certitudes et après avoir passé une bonne nuit au chaud vous vous lancez vers une nouvelle aventure.  
+
+choices:
+    -
+        text: Le puzzle des Kobolds ?
+        next: kobolds
+        notes: null
+    -
+        text: Les tours grises ?
+        next: tours
+        notes: null
+    -
+        text: Le village des noms oubliés ? 
+        next: oubli
+        notes: null       
+       

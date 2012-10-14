@@ -1,15 +1,11 @@
-template: proof.html
 title: Les petits aventuriers aux allumettes 
 subtitle: Qu'est ce que la sophistication ?
-image: img/green_potion.jpg
+image: img/sand-castle.jpg
 gift: un briquet
 intro: |
 
-
-    à faire
-
-choices:
-    -
-        text: Rendez vous à l'étape suivante
-        next: allumettes_vic
-        notes: null
+    Séparer les aventuriers en 3 équipes (A,B,C) 
+    L'équipe A reste (les deux autres sortent)
+    
+    Quand l'équipe A est prête cliquez [ICI](allumettes_ep_a.html)
+            

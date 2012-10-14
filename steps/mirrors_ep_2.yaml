@@ -1,0 +1,31 @@
+template: proof.html
+title: Le village des glaces 
+subtitle: ...et des miroirs déformants
+image: img/mirror.jpg
+gift: les lunettes "réalité augmentée" du troll gogole, et 1 point de courage  
+intro: |
+
+    Les questions pour que vous puissiez observer à quoi vos "amis" pensent quand ils vous observent...
+
+
+     * Quel âge à cet aventurier ?
+     * Quel est son passe-temps favori ? 
+     * Quel est son sport favori (à la télé ou dans la vie) ? 
+     * Quelle est la principale qualité de cette aventurier ?
+     * Qu'est ce que cet aventurier déteste faire ? 
+     * Avec quel sorte d'animal l'associez vous ? 
+     * Quelle est sa musique favorite ?
+     * Où passe-t-elle ses vacances ?    
+     * De quelle pays ou quelle région vient cet aventurier ?
+     
+
+choices:
+    -
+        text: Avez vous déjoué les tours du village des glaces ? cliquez ici.
+        next: mirrors_vic
+        notes: null 
+    
+    
+    
+    
+            

@@ -1,0 +1,26 @@
+title: Le village des glaces 
+subtitle: ...et des miroirs déformants
+image: img/mirror.jpg
+gift: les lunettes "réalité augmentée" du troll gogole. 
+intro: |
+
+    Formez des groupes en cercle de 9 max / 6 min, avec des gens que vous ne connaissez pas
+    
+    Placez votre nom sur un post-it sur vous bien visible. 
+    
+    Marquez votre nom sur une page A4 
+    
+    Puis à chaque tour (jusqu'à ce que votre feuille vous revienne) : 
+    <ul>
+        <li>Passez la page A4 à votre voisin de droite</li>
+        <li>Répondez à la question du maître du jeu en observant la personne dont le prénom est écrit sur la page A4 que vous tenez</li>
+    </ul>
+    
+    C'est parti. Première question...
+           
+
+choices:
+    -
+        text: Quand vous avez fini cliquez ici.
+        next: mirrors_ep_2
+        notes: null 
