@@ -20,6 +20,21 @@
         max-width: none;
     }
     </style>
+    
+    {%if map %}
+    <script type="text/javascript" src="assets/js/spryMap-2.js"></script> 
+      <script type="text/javascript"> 
+      window.onload = function() {
+      var map = new SpryMap({id : "herosmap",
+                         height: 500,
+                         width: 1000,
+                         startX: 200,
+                         startY: 200,
+                         cssClass: "mappy"});
+  }
+  </script> 
+    {% endif %}
+    
 </head>
 <body>
 
