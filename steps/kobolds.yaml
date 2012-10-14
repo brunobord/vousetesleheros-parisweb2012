@@ -4,9 +4,9 @@ image: img/kobolds.png
 ballon: 1
 intro:
 
-    Le Seigneur Commanditaire du projet présente les impératifs de son projet.
-    Il a longuement exposé son projet, ses impératifs de temps et
-    de budget. Savez-vous ce que vous voulez faire avec ces éléments ?
+    Le Seigneur Commanditaire vous expose longuement son projet, ses impératifs
+    de temps et de budget. Savez-vous ce que vous voulez faire avec ces
+    éléments ?
 
 choices:
     -
@@ -14,7 +14,7 @@ choices:
         next: kobolds_vic
         notes: Gagné, +1 simplicité
     -
-        text: La date butoir du 26 octobre nous permet de préparer aux petits oignons le contenu du projet dans les 10 mois impartis
+        text: La date butoir du 26 août nous permet de préparer aux petits oignons le contenu du projet dans les 10 mois impartis
         next: kobolds_ep
         notes: N'est-ce pas là du temps perdu à préparer des choses aux petits oignons pour dans 10 mois ? Elles seront probablement remises en question, -1 feedback
     -
