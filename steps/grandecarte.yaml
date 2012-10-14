@@ -1,8 +1,9 @@
 title: Carte du projet
 template: full_content.html
+map: 1
 content: |
 
-  <img src="assets/img/grandecarte.png" width="2168" height="1386" border="0" usemap="#map" class="full" />
+  <img src="assets/img/grandecarte.png" width="2168" height="1386" border="0" usemap="#map" class="full" id=herosmap />
 
     <map name="map">
     <area shape="circle" coords="96,624,47" alt="dwarf" href="dwarf.html" />
