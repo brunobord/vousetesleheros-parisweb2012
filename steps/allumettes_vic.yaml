@@ -1,17 +1,14 @@
-title: Les petits aventuriers aux allumettes 
+title: Les petits aventuriers aux allumettes
 subtitle: Qu'est ce que la sophistication ?
 image: img/sand-castle.jpg
 intro: |
 
     Quelques questions :
-    
-        Combien d'allumettes ont été utilisées par les différentes équipes ? 
-        
-        Quel résultat est le plus beau ? 
-        
-        
-   
-   
+
+    Combien d'allumettes ont été utilisées par les différentes équipes ?
+
+    Quel résultat est le plus beau ?
+
 
 choices:
     -
@@ -23,6 +20,6 @@ choices:
         next: tours
         notes: null
     -
-        text: Le village des noms oubliés ? 
+        text: Le village des noms oubliés ?
         next: oubli
         notes: null
