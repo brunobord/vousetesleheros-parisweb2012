@@ -22,6 +22,6 @@ choices:
         next: mur_ep
         notes: gonflé... et risqué il faudrait un minimum de convergence au sein de l'équipe pour savoir ce qu'il y a à faire. L'estimation sert surtout à mettre en oeuvre cette convergence, -1 feedback
     -
-        text: Des jours homme calculés grâce à un jeu de poker particulier, et avec ces jours-homme je peux projeter un planning
+        text: Des jours homme calculés grâce à un jeu de poker particulier basé sur la suite de Fibonacci, et avec ces jours-homme je peux projeter un planning
         next: mur_ep
         notes: la malédiction du jour homme... -1 simplicité

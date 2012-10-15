@@ -13,11 +13,11 @@ choices:
     -
         text: Toutes les informations du projet sont affichées clairement au mur, un excel permet de capitaliser les éléments clefs
         next: foret_vic
-        notes: C'est bien le management visuel et l'intelligence cognitive, +1 communication, +1 courage
+        notes: C'est bien le management visuel et l'intelligence cognitive, on pourrait même se demander si on a besoin de l'excel... +1 communication, +1 courage
     -
         text: Toutes les informations du projet sont sur un excel, des post-its au mur nous permettent de mettre en valeur les éléments clefs
         next: foret_ep
-        notes: Pourquoi ne pas tout mettre au mur ? -1 communication
+        notes: Pourquoi ne pas tout mettre au mur ? le management visuel et cognitif est bien plus efficace que les outils électronique. -1 communication
     -
         text: On a installé un outil électronique et on a gagné la post-it war
         next: foret_ep

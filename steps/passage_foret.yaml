@@ -12,13 +12,17 @@ intro: |
 
     Hein... ? n'est ce pas ?
 
-    * Vous possédez par chance un grimoire traducteur ?
-    * Vous consommez 2 points de courage, les avez vous ?
+    * Vous possédez par chance un **grimoire traducteur** ?
+    * Vous consommez **2 points de courage**, les avez vous ?
 
-    Dans le cas contraire -1 silver bullet
+    Dans le cas contraire **VOUS NE POUVEZ PAS PASSER**
 
 choices:
     -
         text: Vous descendez vers un petit village
         next: hydre
+        notes: null
+    -
+        text: Vous retournez penaud sur vos pas
+        next: grandecarte
         notes: null

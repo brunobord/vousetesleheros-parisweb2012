@@ -9,13 +9,17 @@ intro: |
     D'ailleurs vous pouvez facilement le prouver en déclenchant à tout moment
     une kyrielle de tests automatisés. N'est-ce pas ?
 
-    * Naturellement vous avez un outil d'automatisation des tests, n'est ce pas ?
-    * sinon vous pouvez consommer 2 points de feedback, les avez-vous ?
+    * Naturellement vous avez un **outil d'automatisation des tests**, ou **une lanterne verte qui indiquent que tous les tests passent** n'est ce pas ?
+    * sinon vous pouvez consommer **2 points de feedback**, les avez-vous ?
 
-    Dans le cas contraire -1 silver bullet
+    Dans le cas contraire **VOUS NE POUVEZ PAS PASSER**
 
 choices:
     -
         text: Vous descendez vers un petit village
         next: hydre
+        notes: null
+    -
+        text: Vous retournez penaud sur vos pas
+        next: grandecarte
         notes: null

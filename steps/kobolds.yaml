@@ -10,14 +10,14 @@ intro:
 
 choices:
     -
-        text: La personne qui porte le besoin nous a insufflé sa vision et ses priorités, nous a raconté son histoire, on a compris, on sait par quoi commencer, on verra ensuite
+        text: Qu'on ne se raconte pas d'histoire, une histoire nous suffit pour démarrer.
         next: kobolds_vic
-        notes: Gagné, +1 simplicité
+        notes: Gagné, avant toute chose, il faut connaitre l'histoire, la vision, du projet/produit, sans cela vous n'irez nulle part. +1 simplicité
     -
-        text: La date butoir du 26 août nous permet de préparer aux petits oignons le contenu du projet dans les 10 mois impartis
+        text: La date butoir nous permet de préparer aux petits oignons le contenu du projet dans les mois impartis. Nous avons agrégé une liste d'exigences et de user stories qui tient dans le budget.   
         next: kobolds_ep
-        notes: N'est-ce pas là du temps perdu à préparer des choses aux petits oignons pour dans 10 mois ? Elles seront probablement remises en question, -1 feedback
+        notes: N'est-ce pas là du temps perdu à préparer des choses aux petits oignons pour l'ensemble du projet ? Vos projections seront probablement remises en question, et puis il vous faut une histoire sur laquelle vous projeter. -1 feedback
     -
-        text: On a un ensemble de demandes assez précises on va se lancer dedans
+        text: On a un ensemble de demandes assez précises même si hétérogènes, on va se lancer dedans puis on observera les résultats pour rebondir.  
         next: kobolds_ep
         notes: Cela peut marcher, mais sans vision ou histoire à raconter vous risquez de perdre du sens et du temps

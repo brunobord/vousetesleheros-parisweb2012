@@ -15,12 +15,12 @@ choices:
     -
         text: L'important ce n'est pas les bons chiffres, mais que tout le monde converge
         next: tunnel_vic
-        notes: +1 communication
+        notes: Convergence explicite et comparaison avec ce qui est déjà connu, voilà le secret. +1 communication
     -
         text: On calcul le temps idéal en jour homme pour réaliser une tâche puis on applique un ratio "la vraie vie"
         next: tunnel_ep
         notes: La malédiction du jour homme..., -1 communication
     -
-        text: Peu importe les chiffres c'est par la comparaison de nos tâches que nous estimons
-        next: tunnel_vic
-        notes: +1 adaptation
+        text: L'équipe connaît les forces de ses membres, elles s'appuient sur les experts qu'elle possède selon les tâches demandées pour estimer. 
+        next: tunnel_ep
+        notes: 2 cerveau valent toujours mieux qu'un, -1 communication

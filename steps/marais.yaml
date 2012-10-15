@@ -4,6 +4,8 @@ image: img/marais.jpg
 ballon: 1
 intro:
 
+    Au sein du groupe d'aventuriers, il y a toujours un chat noir, un bouc émissaire, 
+    ou le dindon de la farce.
     Vous êtes scrummaster, Franck, un des membres de l'équipe vient vous voir et vous
     explique que vraiment, Thomas, c'est un boulet et qu'ils en ont marre, marre et
     marre. Que faites-vous ?
@@ -11,7 +13,7 @@ intro:
 
 choices:
     -
-        text: Vous intervenez auprès du manager d'agence pour sortir Thomas de l'équipe.
+        text: Vous intervenez auprès du manager d'agence et de l'équipe pour sortir Thomas de l'équipe.
         next: marais_ep
         notes: et la prochaine fois ? -1 respect, -1 courage
     -

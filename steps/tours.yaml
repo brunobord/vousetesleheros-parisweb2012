@@ -12,14 +12,14 @@ intro:
 
 choices:
     -
-        text: Au scrummaster, lors des daily scrum
+        text: Au scrummaster, lors des "daily scrum"
         next: tours_ep
         notes: Pourquoi le scrummaster plus qu'un autre ? -1 simplicité
     -
-        text: Aux membres de l'équipe, lors des daily scrum
+        text: Aux membres de l'équipe, lors des "daily standup"
         next: tours_ep
         notes: Pourquoi spécifiquement lors des daily scrum ? -1 simplicité
     -
-        text: A tous, n'importe quand
+        text: A tous, durant le "sprint"
         next: tours_vic
         notes: +1 simplicité, +1 adaptation
